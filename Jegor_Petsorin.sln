@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29728.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Jegor_Petsorin", "Jegor_Petsorin\Jegor_Petsorin.csproj", "{136A92AD-3784-4246-A96E-5FCE5A3A3477}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "University_application", "University_application\University_application.csproj", "{9C505E85-188C-426B-8257-4502AB43B462}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{136A92AD-3784-4246-A96E-5FCE5A3A3477}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{136A92AD-3784-4246-A96E-5FCE5A3A3477}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{136A92AD-3784-4246-A96E-5FCE5A3A3477}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{136A92AD-3784-4246-A96E-5FCE5A3A3477}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9C505E85-188C-426B-8257-4502AB43B462}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C505E85-188C-426B-8257-4502AB43B462}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9C505E85-188C-426B-8257-4502AB43B462}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9C505E85-188C-426B-8257-4502AB43B462}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {97C9B608-1005-49F1-8876-E9E6B3AC9ED3}
+	EndGlobalSection
+EndGlobal
