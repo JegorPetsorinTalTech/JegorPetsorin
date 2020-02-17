@@ -5,7 +5,9 @@ VisualStudioVersion = 16.0.29728.190
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Jegor_Petsorin", "Jegor_Petsorin\Jegor_Petsorin.csproj", "{136A92AD-3784-4246-A96E-5FCE5A3A3477}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "University_application", "University_application\University_application.csproj", "{9C505E85-188C-426B-8257-4502AB43B462}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "University_application", "University_application\University_application.csproj", "{9C505E85-188C-426B-8257-4502AB43B462}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JegorPetsorinMVC", "JegorPetsorinMVC\JegorPetsorinMVC.csproj", "{4492BBE8-6E3D-4DA8-B596-1F78DBBF744F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{9C505E85-188C-426B-8257-4502AB43B462}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9C505E85-188C-426B-8257-4502AB43B462}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9C505E85-188C-426B-8257-4502AB43B462}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4492BBE8-6E3D-4DA8-B596-1F78DBBF744F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4492BBE8-6E3D-4DA8-B596-1F78DBBF744F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4492BBE8-6E3D-4DA8-B596-1F78DBBF744F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4492BBE8-6E3D-4DA8-B596-1F78DBBF744F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
