@@ -7,7 +7,12 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Jegor_Petsorin", "Jegor_Pet
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "University_application", "University_application\University_application.csproj", "{9C505E85-188C-426B-8257-4502AB43B462}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JegorPetsorinMVC", "JegorPetsorinMVC\JegorPetsorinMVC.csproj", "{4492BBE8-6E3D-4DA8-B596-1F78DBBF744F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "JegorPetsorinMVC", "JegorPetsorinMVC\JegorPetsorinMVC.csproj", "{4492BBE8-6E3D-4DA8-B596-1F78DBBF744F}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Time", "Time", "{1D8CB497-A2F4-47C7-86C7-96CBC0171BEC}"
+	ProjectSection(SolutionItems) = preProject
+		..\..\..\Desktop\Time recording log.xlsx = ..\..\..\Desktop\Time recording log.xlsx
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
